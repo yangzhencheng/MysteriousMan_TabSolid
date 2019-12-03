@@ -1,0 +1,14 @@
+﻿* {font-size: 14px; margin: 0px; padding: 0px;}
+#mainAPP {margin: 20px auto; padding: 10px;}
+
+#tabSlide {clear: both; margin-top: 25px;}
+#tabSlide ul.nav {clear: both; list-style-type: none; padding: 0px; height: 35px; border-bottom: 1px solid #CCC;}
+#tabSlide ul.nav li {float: left; width: 25%; color: #999; text-align: center; line-height: 35px; cursor: pointer;}
+#tabSlide ul.nav li.active {color: black; border-bottom: 1px solid Blue;}
+
+#tabSlide .content {overflow: hidden;}
+#tabSlide .content div.box {margin-left: 0px; margin-top: 10px;}
+#tabSlide .content div.box ul {float: left; list-style-type: none; padding: 0px; display: inline-block;}
+#tabSlide .content div.box ul li {clear: both; line-height: 32px; height: 32px; border-bottom: 1px solid #CCC;}
+#tabSlide .content div.box ul li span.le {float: left; padding-left: 8px;}
+#tabSlide .content div.box ul li span.ri {float: right; text-align: right; padding-right: 8px;}
